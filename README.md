@@ -1,2 +1,2 @@
-# Vue.js 공부중
+# 혼자서 하는 Vue.js
 https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/
