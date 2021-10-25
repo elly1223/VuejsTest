@@ -1,2 +1,2 @@
-# 혼자서 하는 Vue.js
+혼자서  Vue.js
 https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/
